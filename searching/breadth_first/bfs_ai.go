@@ -1,4 +1,4 @@
-package searching
+package breadth_first
 
 // BFS to print the tree in breadth first fashion
 type Tree struct {
